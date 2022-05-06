@@ -8,10 +8,10 @@
   },
   "dependencies": {
     "@slidev/cli": "^0.31.2",
-    "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*"
+    "@slidev/theme-default": "*"
   },
   "devDependencies": {
-    "@iconify-json/ri": "^1.1.1"
+    "@iconify-json/ri": "^1.1.1",
+    "playwright-chromium": "^1.21.1"
   }
 }

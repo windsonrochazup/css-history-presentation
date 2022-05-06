@@ -9,7 +9,6 @@ info: |
   ## CSS history presentation
 drawings:
   persist: false
-download: true
 ---
 
 <div
@@ -278,7 +277,7 @@ class: text-center
     </v-clicks>
   </div>
   <div class="text-center pb-4 my-auto">
-    <img class="h-40 inline-block" src="/images/Styled components.png">
+    <img class="h-40 inline-block" src="/images/styled-components.png">
   </div>
 </div>
 

@@ -82,7 +82,7 @@ class: text-center
     </v-clicks>
   </div>
   <div class="text-center pb-4 my-auto">
-    <img class="h-60 inline-block" src="/images/CSS.jpg">
+    <img class="h-60 inline-block" src="/CSS.jpg">
   </div>
 </div>
 
@@ -121,7 +121,7 @@ class: text-center
     </v-clicks>
   </div>
   <div class="text-center pb-4 my-auto">
-    <img class="h-40 inline-block" src="/images/bem-naming-structure.png">
+    <img class="h-40 inline-block" src="/bem-naming-structure.png">
   </div>
 </div>
 
@@ -151,7 +151,7 @@ class: text-center
       </v-clicks>
   </div>
   <div class="text-center pb-4 my-auto">
-    <img class="h-60 inline-block" src="/images/cssModules.png">
+    <img class="h-60 inline-block" src="/cssModules.png">
   </div>
 </div>
 
@@ -182,7 +182,7 @@ class: text-center
     </v-clicks>
   </div>
   <div class="text-center pb-4 my-auto">
-    <img class="h-60 inline-block" src="/images/pre-processadores-css.png">
+    <img class="h-60 inline-block" src="/pre-processadores-css.png">
   </div>
 </div>
 
@@ -215,7 +215,7 @@ class: text-center
     </v-clicks>
   </div>
   <div class="text-center pb-4 my-auto">
-    <img class="h-40 inline-block" src="/images/postcss-logo.png">
+    <img class="h-40 inline-block" src="/postcss-logo.png">
   </div>
 </div>
 
@@ -246,7 +246,7 @@ class: text-center
     </v-clicks>
   </div>
   <div class="text-center pb-4 my-auto">
-    <img class="h-60 inline-block" src="/images/frameworks.png">
+    <img class="h-60 inline-block" src="/frameworks.png">
   </div>
 </div>
 
@@ -277,7 +277,7 @@ class: text-center
     </v-clicks>
   </div>
   <div class="text-center pb-4 my-auto">
-    <img class="h-40 inline-block" src="/images/styled-components.png">
+    <img class="h-40 inline-block" src="/styled-components.png">
   </div>
 </div>
 
